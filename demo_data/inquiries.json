@@ -1,0 +1,622 @@
+[
+ {
+  "id": "Q0001",
+  "channel": "店铺 A",
+  "buyer": "임*우",
+  "text_ko": "주문번호 20261118-81646인데요, 지금 어디쯤 왔는지 알 수 있을까요?",
+  "text_zh": "订单号 20261118-81646，想知道现在到哪里了？",
+  "order_no": "20261118-81646",
+  "product_code": null,
+  "created_at": "2026-11-20T15:34"
+ },
+ {
+  "id": "Q0002",
+  "channel": "店铺 B",
+  "buyer": "박*경",
+  "text_ko": "주문한 지 일주일이 됐는데 아직 안 와요. 언제쯤 받을 수 있나요?",
+  "text_zh": "下单一周了还没到，大概什么时候能收到？",
+  "order_no": "20261117-98731",
+  "product_code": null,
+  "created_at": "2026-11-20T16:11"
+ },
+ {
+  "id": "Q0003",
+  "channel": "店铺 A",
+  "buyer": "임*우",
+  "text_ko": "배송 조회를 해도 아무 정보가 안 떠요. 확인 부탁드려요. 20261118-81646",
+  "text_zh": "查物流没有任何信息，麻烦确认一下。20261118-81646",
+  "order_no": "20261118-81646",
+  "product_code": null,
+  "created_at": "2026-11-20T09:33"
+ },
+ {
+  "id": "Q0004",
+  "channel": "店铺 C",
+  "buyer": "임*준",
+  "text_ko": "택배 언제 도착해요?",
+  "text_zh": "快递什么时候到？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T09:02"
+ },
+ {
+  "id": "Q0005",
+  "channel": "店铺 C",
+  "buyer": "윤*민",
+  "text_ko": "20261115-56669 주문 건 출고는 됐나요? 도착 예정일이 궁금합니다.",
+  "text_zh": "20261115-56669 这单发货了吗？想知道预计到货日。",
+  "order_no": "20261115-56669",
+  "product_code": null,
+  "created_at": "2026-11-20T12:21"
+ },
+ {
+  "id": "Q0006",
+  "channel": "店铺 A",
+  "buyer": "최*준",
+  "text_ko": "통관 중이라고만 뜨고 며칠째 그대로예요. 왜 이렇게 오래 걸리죠? 20261113-83675",
+  "text_zh": "一直显示清关中，好几天没变化，为什么这么久？20261113-83675",
+  "order_no": "20261113-83675",
+  "product_code": null,
+  "created_at": "2026-11-20T09:47"
+ },
+ {
+  "id": "Q0007",
+  "channel": "店铺 A",
+  "buyer": "최*경",
+  "text_ko": "세관에서 문자가 왔는데 통관 진행 상황 좀 알려주세요. 주문번호 20261113-95993",
+  "text_zh": "收到海关短信，请告知清关进度。订单号 20261113-95993",
+  "order_no": "20261113-95993",
+  "product_code": null,
+  "created_at": "2026-11-20T09:26"
+ },
+ {
+  "id": "Q0008",
+  "channel": "店铺 A",
+  "buyer": "최*경",
+  "text_ko": "통관이 아직도 안 끝났나요? 언제 넘어오는지 궁금해요.",
+  "text_zh": "清关还没结束吗？想知道什么时候放行。",
+  "order_no": "20261113-95993",
+  "product_code": null,
+  "created_at": "2026-11-20T13:42"
+ },
+ {
+  "id": "Q0009",
+  "channel": "店铺 C",
+  "buyer": "윤*경",
+  "text_ko": "미니 가습기 지금 재고 있나요?",
+  "text_zh": "迷你加湿器现在有货吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T15:57"
+ },
+ {
+  "id": "Q0010",
+  "channel": "店铺 B",
+  "buyer": "강*준",
+  "text_ko": "상품코드 PT-49175 품절이던데 언제 재입고되나요?",
+  "text_zh": "商品编码 PT-49175 显示缺货，什么时候补货？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T14:15"
+ },
+ {
+  "id": "Q0011",
+  "channel": "店铺 B",
+  "buyer": "신*은",
+  "text_ko": "요가 매트 오늘 주문하면 바로 출고되나요? 재고 확인 부탁드립니다.",
+  "text_zh": "瑜伽垫今天下单能马上发货吗？请确认库存。",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T13:38"
+ },
+ {
+  "id": "Q0012",
+  "channel": "店铺 B",
+  "buyer": "정*호",
+  "text_ko": "이 상품 재입고 예정이 있나요?",
+  "text_zh": "这个商品有补货计划吗？",
+  "order_no": null,
+  "product_code": "KT-65625",
+  "created_at": "2026-11-20T11:45"
+ },
+ {
+  "id": "Q0013",
+  "channel": "店铺 A",
+  "buyer": "서*민",
+  "text_ko": "주문하면 보통 며칠 정도 걸리나요?",
+  "text_zh": "下单后一般要几天？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T14:44"
+ },
+ {
+  "id": "Q0014",
+  "channel": "店铺 A",
+  "buyer": "최*지",
+  "text_ko": "해외배송 상품이라는데 배송 기간이 어떻게 되나요?",
+  "text_zh": "说是海外直邮，配送周期多久？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T11:18"
+ },
+ {
+  "id": "Q0015",
+  "channel": "店铺 C",
+  "buyer": "권*민",
+  "text_ko": "지금 결제하면 다음 주 안에 받을 수 있을까요?",
+  "text_zh": "现在付款下周内能收到吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T11:07"
+ },
+ {
+  "id": "Q0016",
+  "channel": "店铺 B",
+  "buyer": "강*준",
+  "text_ko": "주문 취소하고 싶어요. 20261120-28818",
+  "text_zh": "想取消订单。20261120-28818",
+  "order_no": "20261120-28818",
+  "product_code": null,
+  "created_at": "2026-11-20T10:34"
+ },
+ {
+  "id": "Q0017",
+  "channel": "店铺 B",
+  "buyer": "박*준",
+  "text_ko": "잘못 주문했어요. 취소 처리 부탁드립니다.",
+  "text_zh": "下错单了，麻烦取消。",
+  "order_no": "20261119-66410",
+  "product_code": null,
+  "created_at": "2026-11-20T10:25"
+ },
+ {
+  "id": "Q0018",
+  "channel": "店铺 A",
+  "buyer": "정*우",
+  "text_ko": "아직 출고 전이면 주문 취소해 주세요. 주문번호 20261120-75522",
+  "text_zh": "还没发货的话请取消订单。订单号 20261120-75522",
+  "order_no": "20261120-75522",
+  "product_code": null,
+  "created_at": "2026-11-20T15:50"
+ },
+ {
+  "id": "Q0019",
+  "channel": "店铺 C",
+  "buyer": "신*아",
+  "text_ko": "상품이 마음에 안 들어서 반품하고 싶습니다. 20261109-90702",
+  "text_zh": "不喜欢这个商品，想退货。20261109-90702",
+  "order_no": "20261109-90702",
+  "product_code": null,
+  "created_at": "2026-11-20T09:07"
+ },
+ {
+  "id": "Q0020",
+  "channel": "店铺 C",
+  "buyer": "권*연",
+  "text_ko": "환불은 언제 되나요? 반품 접수한 지 꽤 됐는데요.",
+  "text_zh": "退款什么时候到？退货申请已经很久了。",
+  "order_no": "20261023-62287",
+  "product_code": null,
+  "created_at": "2026-11-20T10:21"
+ },
+ {
+  "id": "Q0021",
+  "channel": "店铺 A",
+  "buyer": "최*경",
+  "text_ko": "단순 변심인데 반품 가능한가요? 반품 배송비는 얼마인가요?",
+  "text_zh": "只是不想要了，可以退货吗？退货运费多少？",
+  "order_no": "20261022-31429",
+  "product_code": null,
+  "created_at": "2026-11-20T11:53"
+ },
+ {
+  "id": "Q0022",
+  "channel": "店铺 B",
+  "buyer": "서*연",
+  "text_ko": "사이즈가 안 맞아서 교환하고 싶어요. 20261106-12982",
+  "text_zh": "尺码不合适，想换货。20261106-12982",
+  "order_no": "20261106-12982",
+  "product_code": null,
+  "created_at": "2026-11-20T13:19"
+ },
+ {
+  "id": "Q0023",
+  "channel": "店铺 A",
+  "buyer": "최*경",
+  "text_ko": "다른 색상으로 교환 가능한가요?",
+  "text_zh": "可以换成别的颜色吗？",
+  "order_no": "20261022-31429",
+  "product_code": null,
+  "created_at": "2026-11-20T11:03"
+ },
+ {
+  "id": "Q0024",
+  "channel": "店铺 A",
+  "buyer": "임*준",
+  "text_ko": "교환 신청은 어떻게 하나요? 주문번호 20261029-42384",
+  "text_zh": "怎么申请换货？订单号 20261029-42384",
+  "order_no": "20261029-42384",
+  "product_code": null,
+  "created_at": "2026-11-20T12:56"
+ },
+ {
+  "id": "Q0025",
+  "channel": "店铺 C",
+  "buyer": "최*아",
+  "text_ko": "받아보니 상품이 파손되어 있어요. 사진 첨부합니다. 20261107-69861",
+  "text_zh": "收到发现商品破损，附上照片。20261107-69861",
+  "order_no": "20261107-69861",
+  "product_code": null,
+  "created_at": "2026-11-20T14:27"
+ },
+ {
+  "id": "Q0026",
+  "channel": "店铺 A",
+  "buyer": "장*현",
+  "text_ko": "충전을 해도 작동이 안 됩니다. 불량인 것 같아요.",
+  "text_zh": "充了电也不工作，应该是次品。",
+  "order_no": "20261026-95446",
+  "product_code": null,
+  "created_at": "2026-11-20T13:47"
+ },
+ {
+  "id": "Q0027",
+  "channel": "店铺 A",
+  "buyer": "이*경",
+  "text_ko": "박스를 열어보니 깨져 있네요. 어떻게 해야 하나요? 20261025-19680",
+  "text_zh": "打开箱子发现碎了，该怎么办？20261025-19680",
+  "order_no": "20261025-19680",
+  "product_code": null,
+  "created_at": "2026-11-20T15:39"
+ },
+ {
+  "id": "Q0028",
+  "channel": "店铺 B",
+  "buyer": "서*준",
+  "text_ko": "주문한 것과 다른 상품이 왔어요. 20261105-72403",
+  "text_zh": "收到的和订的不是同一个商品。20261105-72403",
+  "order_no": "20261105-72403",
+  "product_code": null,
+  "created_at": "2026-11-20T11:28"
+ },
+ {
+  "id": "Q0029",
+  "channel": "店铺 B",
+  "buyer": "박*윤",
+  "text_ko": "색상이 다른 게 왔는데 오배송인 것 같습니다.",
+  "text_zh": "颜色发错了，应该是错发。",
+  "order_no": "20261027-97133",
+  "product_code": null,
+  "created_at": "2026-11-20T12:07"
+ },
+ {
+  "id": "Q0030",
+  "channel": "店铺 B",
+  "buyer": "권*현",
+  "text_ko": "수량이 부족하게 왔어요. 2개 주문했는데 1개만 왔습니다. 20261102-74161",
+  "text_zh": "数量少了，订了 2 个只到 1 个。20261102-74161",
+  "order_no": "20261102-74161",
+  "product_code": null,
+  "created_at": "2026-11-20T12:10"
+ },
+ {
+  "id": "Q0031",
+  "channel": "店铺 B",
+  "buyer": "오*연",
+  "text_ko": "몇 번을 문의해도 답이 없네요. 정말 화가 납니다. 책임자 연결해 주세요.",
+  "text_zh": "问了好几次都没人回，真的很生气，请转负责人。",
+  "order_no": "20261026-31502",
+  "product_code": null,
+  "created_at": "2026-11-20T13:58"
+ },
+ {
+  "id": "Q0032",
+  "channel": "店铺 B",
+  "buyer": "오*진",
+  "text_ko": "이런 식이면 소비자원에 신고하겠습니다.",
+  "text_zh": "再这样我就向消费者院投诉。",
+  "order_no": "20261031-24986",
+  "product_code": null,
+  "created_at": "2026-11-20T12:42"
+ },
+ {
+  "id": "Q0033",
+  "channel": "店铺 C",
+  "buyer": "서*연",
+  "text_ko": "최악이네요. 다시는 여기서 안 삽니다. 20261115-28216",
+  "text_zh": "太差了，再也不在这买了。20261115-28216",
+  "order_no": "20261115-28216",
+  "product_code": null,
+  "created_at": "2026-11-20T10:11"
+ },
+ {
+  "id": "Q0034",
+  "channel": "店铺 C",
+  "buyer": "윤*호",
+  "text_ko": "배송지 주소를 변경하고 싶어요. 20261120-38240",
+  "text_zh": "想修改收货地址。20261120-38240",
+  "order_no": "20261120-38240",
+  "product_code": null,
+  "created_at": "2026-11-20T13:30"
+ },
+ {
+  "id": "Q0035",
+  "channel": "店铺 B",
+  "buyer": "박*경",
+  "text_ko": "이사를 해서 주소 변경 부탁드립니다. 아직 출고 전이죠?",
+  "text_zh": "搬家了，麻烦改一下地址，还没发货吧？",
+  "order_no": "20261117-98731",
+  "product_code": null,
+  "created_at": "2026-11-20T14:57"
+ },
+ {
+  "id": "Q0036",
+  "channel": "店铺 A",
+  "buyer": "권*윤",
+  "text_ko": "받는 사람 연락처를 바꿀 수 있을까요? 주문번호 20261119-85919",
+  "text_zh": "能改收件人电话吗？订单号 20261119-85919",
+  "order_no": "20261119-85919",
+  "product_code": null,
+  "created_at": "2026-11-20T11:23"
+ },
+ {
+  "id": "Q0037",
+  "channel": "店铺 C",
+  "buyer": "김*경",
+  "text_ko": "개인통관고유부호를 잘못 입력했어요. 수정 부탁드립니다. 20261116-94737",
+  "text_zh": "个人通关号填错了，请帮忙修改。20261116-94737",
+  "order_no": "20261116-94737",
+  "product_code": null,
+  "created_at": "2026-11-20T09:37"
+ },
+ {
+  "id": "Q0038",
+  "channel": "店铺 A",
+  "buyer": "최*준",
+  "text_ko": "통관부호를 다른 사람 걸로 변경할 수 있나요?",
+  "text_zh": "通关号能换成别人的吗？",
+  "order_no": "20261113-83675",
+  "product_code": null,
+  "created_at": "2026-11-20T11:55"
+ },
+ {
+  "id": "Q0039",
+  "channel": "店铺 A",
+  "buyer": "서*현",
+  "text_ko": "배송완료라고 나오는데 상품을 못 받았어요. 20261107-76621",
+  "text_zh": "显示已签收，但我没收到。20261107-76621",
+  "order_no": "20261107-76621",
+  "product_code": null,
+  "created_at": "2026-11-20T13:09"
+ },
+ {
+  "id": "Q0040",
+  "channel": "店铺 C",
+  "buyer": "오*윤",
+  "text_ko": "택배 기사님이 문 앞에 뒀다는데 아무것도 없습니다. 배송완료로 뜨는데요.",
+  "text_zh": "快递员说放门口了，但什么都没有，系统显示已签收。",
+  "order_no": "20261021-58205",
+  "product_code": null,
+  "created_at": "2026-11-20T09:50"
+ },
+ {
+  "id": "Q0041",
+  "channel": "店铺 B",
+  "buyer": "임*영",
+  "text_ko": "배송완료 문자를 받았는데 물건이 안 왔어요. 확인해 주세요. 20261105-67435",
+  "text_zh": "收到签收短信但东西没到，请确认。20261105-67435",
+  "order_no": "20261105-67435",
+  "product_code": null,
+  "created_at": "2026-11-20T14:12"
+ },
+ {
+  "id": "Q0042",
+  "channel": "店铺 C",
+  "buyer": "한*은",
+  "text_ko": "현금영수증 발급 가능한가요?",
+  "text_zh": "可以开现金收据吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T13:01"
+ },
+ {
+  "id": "Q0043",
+  "channel": "店铺 A",
+  "buyer": "조*준",
+  "text_ko": "세금계산서나 영수증을 받을 수 있을까요? 회사 비용 처리용입니다.",
+  "text_zh": "能开税务发票或收据吗？公司报销用。",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T12:26"
+ },
+ {
+  "id": "Q0044",
+  "channel": "店铺 A",
+  "buyer": "서*우",
+  "text_ko": "구매 영수증은 어디서 출력하나요?",
+  "text_zh": "购买凭证在哪里打印？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T15:27"
+ },
+ {
+  "id": "Q0045",
+  "channel": "店铺 C",
+  "buyer": "박*우",
+  "text_ko": "사용 설명서가 한국어로 들어 있나요?",
+  "text_zh": "里面有韩语说明书吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T14:02"
+ },
+ {
+  "id": "Q0046",
+  "channel": "店铺 C",
+  "buyer": "최*우",
+  "text_ko": "이 제품 한국 220V에서 그대로 사용할 수 있나요?",
+  "text_zh": "这个产品在韩国 220V 下能直接用吗？",
+  "order_no": null,
+  "product_code": "EL-48490",
+  "created_at": "2026-11-20T09:57"
+ },
+ {
+  "id": "Q0047",
+  "channel": "店铺 A",
+  "buyer": "장*아",
+  "text_ko": "처음 사용할 때 충전은 얼마나 해야 하나요?",
+  "text_zh": "第一次使用要充多久电？",
+  "order_no": null,
+  "product_code": "EL-48490",
+  "created_at": "2026-11-20T12:31"
+ },
+ {
+  "id": "Q0048",
+  "channel": "店铺 B",
+  "buyer": "장*민",
+  "text_ko": "평소 M 사이즈 입는데 어떤 사이즈로 주문해야 할까요?",
+  "text_zh": "平时穿 M 码，应该订哪个码？",
+  "order_no": null,
+  "product_code": "FS-53338",
+  "created_at": "2026-11-20T09:16"
+ },
+ {
+  "id": "Q0049",
+  "channel": "店铺 A",
+  "buyer": "임*준",
+  "text_ko": "남성 경량 패딩 조끼 실측 사이즈 좀 알려주세요.",
+  "text_zh": "请告知男士轻薄羽绒马甲的实测尺寸。",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T15:06"
+ },
+ {
+  "id": "Q0050",
+  "channel": "店铺 C",
+  "buyer": "조*영",
+  "text_ko": "키 175에 70kg인데 L 사이즈 맞을까요?",
+  "text_zh": "身高 175、体重 70kg，L 码合适吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T12:45"
+ },
+ {
+  "id": "Q0051",
+  "channel": "店铺 A",
+  "buyer": "김*우",
+  "text_ko": "두 가지 상품을 같이 주문하면 합배송 되나요?",
+  "text_zh": "两种商品一起下单能合并发货吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T15:13"
+ },
+ {
+  "id": "Q0052",
+  "channel": "店铺 B",
+  "buyer": "신*은",
+  "text_ko": "따로 주문한 두 건을 묶음배송으로 받을 수 있을까요?",
+  "text_zh": "分开下的两单能合并配送吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T11:37"
+ },
+ {
+  "id": "Q0053",
+  "channel": "店铺 A",
+  "buyer": "신*우",
+  "text_ko": "여러 개 주문 시 배송비는 한 번만 내면 되나요?",
+  "text_zh": "买多件运费只付一次吗？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T10:54"
+ },
+ {
+  "id": "Q0054",
+  "channel": "店铺 A",
+  "buyer": "김*우",
+  "text_ko": "쿠폰 적용이 안 되는데 확인 부탁드려요.",
+  "text_zh": "优惠券用不了，麻烦确认。",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T13:16"
+ },
+ {
+  "id": "Q0055",
+  "channel": "店铺 B",
+  "buyer": "최*경",
+  "text_ko": "다음 할인 행사는 언제 하나요?",
+  "text_zh": "下次打折活动是什么时候？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T10:50"
+ },
+ {
+  "id": "Q0056",
+  "channel": "店铺 C",
+  "buyer": "임*우",
+  "text_ko": "첫 구매 할인 쿠폰은 어디서 받나요?",
+  "text_zh": "首单优惠券在哪里领？",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T14:38"
+ },
+ {
+  "id": "Q0057",
+  "channel": "店铺 C",
+  "buyer": "장*아",
+  "text_ko": "잘 받았습니다. 감사합니다!",
+  "text_zh": "已收到，谢谢！",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T10:08"
+ },
+ {
+  "id": "Q0058",
+  "channel": "店铺 B",
+  "buyer": "박*현",
+  "text_ko": "빠른 답변 감사해요. 잘 쓸게요.",
+  "text_zh": "谢谢快速回复，我会好好用的。",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T16:04"
+ },
+ {
+  "id": "Q0059",
+  "channel": "店铺 B",
+  "buyer": "김*윤",
+  "text_ko": "주문번호 20261031-88015인데요, 지금 어디쯤 왔는지 알 수 있을까요?",
+  "text_zh": "订单号 20261031-88015，想知道现在到哪里了？",
+  "order_no": "20261031-88015",
+  "product_code": null,
+  "created_at": "2026-11-20T15:23"
+ },
+ {
+  "id": "Q0060",
+  "channel": "店铺 C",
+  "buyer": "조*윤",
+  "text_ko": "주문한 지 일주일이 됐는데 아직 안 와요. 언제쯤 받을 수 있나요?",
+  "text_zh": "下单一周了还没到，大概什么时候能收到？",
+  "order_no": "20261026-96897",
+  "product_code": null,
+  "created_at": "2026-11-20T14:29"
+ },
+ {
+  "id": "Q0061",
+  "channel": "店铺 C",
+  "buyer": "강*윤",
+  "text_ko": "배송 조회를 해도 아무 정보가 안 떠요. 확인 부탁드려요. 20261029-56017",
+  "text_zh": "查物流没有任何信息，麻烦确认一下。20261029-56017",
+  "order_no": "20261029-56017",
+  "product_code": null,
+  "created_at": "2026-11-20T14:52"
+ },
+ {
+  "id": "Q0062",
+  "channel": "店铺 C",
+  "buyer": "권*경",
+  "text_ko": "주문번호 20261101-00000 배송 상태 확인 부탁드립니다.",
+  "text_zh": "请确认订单 20261101-00000 的配送状态。",
+  "order_no": null,
+  "product_code": null,
+  "created_at": "2026-11-20T10:41"
+ }
+]

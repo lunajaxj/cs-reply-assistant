@@ -1,0 +1,5 @@
+{
+ "demo_date": "2026-11-20",
+ "seed": 20261120,
+ "note": "All data in this folder is synthetic (scripts/make_demo_data.py)."
+}

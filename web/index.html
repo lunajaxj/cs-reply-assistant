@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>客服回复助手 · 演示版</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">客服回复助手<span class="tag">演示版 · 数据全部随机生成</span></div>
+  <nav id="tabs">
+    <button data-tab="desk" class="on">工作台</button>
+    <button data-tab="scripts">话术库</button>
+    <button data-tab="rules">转人工规则</button>
+    <button data-tab="eval">评测</button>
+  </nav>
+  <div class="meta" id="meta"></div>
+</header>
+
+<main>
+  <!-- 工作台 -->
+  <section id="tab-desk" class="desk">
+    <aside class="col list">
+      <div class="col-head">
+        <div class="filters" id="filters"></div>
+        <button class="btn small" id="btn-manual">手动输入</button>
+      </div>
+      <ul id="inq-list"></ul>
+    </aside>
+
+    <div class="col work" id="work">
+      <div class="empty">从左侧选一条咨询，或点“手动输入”粘贴一条韩语咨询。</div>
+    </div>
+
+    <aside class="col side">
+      <div class="col-head">
+        <form id="lookup-form" class="lookup">
+          <input id="lookup-q" placeholder="订单号 / 商品编码 / 通关号 / 商品名" autocomplete="off">
+          <button class="btn small">查询</button>
+        </form>
+      </div>
+      <div id="side-body"><div class="empty">生成回复后，这里显示已核实的订单、库存和到货数据。</div></div>
+    </aside>
+  </section>
+
+  <!-- 话术库 -->
+  <section id="tab-scripts" class="page" hidden>
+    <div class="page-head">
+      <div>
+        <h2>话术库</h2>
+        <p class="hint">检索按“标题 + 示例问法”匹配。某类咨询没匹配上时，在对应话术里加一条示例问法即可，保存后立刻生效。</p>
+      </div>
+      <button class="btn primary" id="btn-new-script">新增话术</button>
+    </div>
+    <div id="script-list" class="cards"></div>
+  </section>
+
+  <!-- 规则 -->
+  <section id="tab-rules" class="page" hidden>
+    <div class="page-head">
+      <div>
+        <h2>转人工规则</h2>
+        <p class="hint">任一规则命中，建议回复就换成安抚话术，咨询进入人工队列。规则可随时开关。</p>
+      </div>
+    </div>
+    <table class="table" id="rule-table"></table>
+  </section>
+
+  <!-- 评测 -->
+  <section id="tab-eval" class="page" hidden>
+    <div class="page-head">
+      <div>
+        <h2>评测</h2>
+        <p class="hint">用带标签的随机咨询跑一遍完整链路。数字只说明机制在这批数据上是否按预期工作，不代表真实业务效果。</p>
+      </div>
+      <button class="btn primary" id="btn-eval">重新评测</button>
+    </div>
+    <div id="eval-body"></div>
+  </section>
+</main>
+
+<dialog id="dlg">
+  <form method="dialog" id="dlg-form"></form>
+</dialog>
+<div id="toast" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,312 @@
+[
+ {
+  "id": "Q0001",
+  "category": "shipping_status",
+  "handoff": false
+ },
+ {
+  "id": "Q0002",
+  "category": "shipping_status",
+  "handoff": false
+ },
+ {
+  "id": "Q0003",
+  "category": "shipping_status",
+  "handoff": false
+ },
+ {
+  "id": "Q0004",
+  "category": "shipping_status",
+  "handoff": false
+ },
+ {
+  "id": "Q0005",
+  "category": "shipping_status",
+  "handoff": false
+ },
+ {
+  "id": "Q0006",
+  "category": "customs",
+  "handoff": false
+ },
+ {
+  "id": "Q0007",
+  "category": "customs",
+  "handoff": false
+ },
+ {
+  "id": "Q0008",
+  "category": "customs",
+  "handoff": false
+ },
+ {
+  "id": "Q0009",
+  "category": "stock",
+  "handoff": false
+ },
+ {
+  "id": "Q0010",
+  "category": "stock",
+  "handoff": false
+ },
+ {
+  "id": "Q0011",
+  "category": "stock",
+  "handoff": false
+ },
+ {
+  "id": "Q0012",
+  "category": "stock",
+  "handoff": false
+ },
+ {
+  "id": "Q0013",
+  "category": "delivery_time",
+  "handoff": false
+ },
+ {
+  "id": "Q0014",
+  "category": "delivery_time",
+  "handoff": false
+ },
+ {
+  "id": "Q0015",
+  "category": "delivery_time",
+  "handoff": false
+ },
+ {
+  "id": "Q0016",
+  "category": "cancel",
+  "handoff": true
+ },
+ {
+  "id": "Q0017",
+  "category": "cancel",
+  "handoff": true
+ },
+ {
+  "id": "Q0018",
+  "category": "cancel",
+  "handoff": true
+ },
+ {
+  "id": "Q0019",
+  "category": "return_refund",
+  "handoff": true
+ },
+ {
+  "id": "Q0020",
+  "category": "return_refund",
+  "handoff": true
+ },
+ {
+  "id": "Q0021",
+  "category": "return_refund",
+  "handoff": true
+ },
+ {
+  "id": "Q0022",
+  "category": "exchange",
+  "handoff": true
+ },
+ {
+  "id": "Q0023",
+  "category": "exchange",
+  "handoff": true
+ },
+ {
+  "id": "Q0024",
+  "category": "exchange",
+  "handoff": true
+ },
+ {
+  "id": "Q0025",
+  "category": "defect",
+  "handoff": true
+ },
+ {
+  "id": "Q0026",
+  "category": "defect",
+  "handoff": true
+ },
+ {
+  "id": "Q0027",
+  "category": "defect",
+  "handoff": true
+ },
+ {
+  "id": "Q0028",
+  "category": "wrong_item",
+  "handoff": true
+ },
+ {
+  "id": "Q0029",
+  "category": "wrong_item",
+  "handoff": true
+ },
+ {
+  "id": "Q0030",
+  "category": "wrong_item",
+  "handoff": true
+ },
+ {
+  "id": "Q0031",
+  "category": "complaint",
+  "handoff": true
+ },
+ {
+  "id": "Q0032",
+  "category": "complaint",
+  "handoff": true
+ },
+ {
+  "id": "Q0033",
+  "category": "complaint",
+  "handoff": true
+ },
+ {
+  "id": "Q0034",
+  "category": "address_change",
+  "handoff": true
+ },
+ {
+  "id": "Q0035",
+  "category": "address_change",
+  "handoff": true
+ },
+ {
+  "id": "Q0036",
+  "category": "address_change",
+  "handoff": true
+ },
+ {
+  "id": "Q0037",
+  "category": "customs_code_change",
+  "handoff": true
+ },
+ {
+  "id": "Q0038",
+  "category": "customs_code_change",
+  "handoff": true
+ },
+ {
+  "id": "Q0039",
+  "category": "delivered_not_received",
+  "handoff": true
+ },
+ {
+  "id": "Q0040",
+  "category": "delivered_not_received",
+  "handoff": true
+ },
+ {
+  "id": "Q0041",
+  "category": "delivered_not_received",
+  "handoff": true
+ },
+ {
+  "id": "Q0042",
+  "category": "receipt",
+  "handoff": false
+ },
+ {
+  "id": "Q0043",
+  "category": "receipt",
+  "handoff": false
+ },
+ {
+  "id": "Q0044",
+  "category": "receipt",
+  "handoff": false
+ },
+ {
+  "id": "Q0045",
+  "category": "usage",
+  "handoff": false
+ },
+ {
+  "id": "Q0046",
+  "category": "usage",
+  "handoff": false
+ },
+ {
+  "id": "Q0047",
+  "category": "usage",
+  "handoff": false
+ },
+ {
+  "id": "Q0048",
+  "category": "size",
+  "handoff": false
+ },
+ {
+  "id": "Q0049",
+  "category": "size",
+  "handoff": false
+ },
+ {
+  "id": "Q0050",
+  "category": "size",
+  "handoff": false
+ },
+ {
+  "id": "Q0051",
+  "category": "combined_shipping",
+  "handoff": false
+ },
+ {
+  "id": "Q0052",
+  "category": "combined_shipping",
+  "handoff": false
+ },
+ {
+  "id": "Q0053",
+  "category": "combined_shipping",
+  "handoff": false
+ },
+ {
+  "id": "Q0054",
+  "category": "coupon",
+  "handoff": false
+ },
+ {
+  "id": "Q0055",
+  "category": "coupon",
+  "handoff": false
+ },
+ {
+  "id": "Q0056",
+  "category": "coupon",
+  "handoff": false
+ },
+ {
+  "id": "Q0057",
+  "category": "thanks",
+  "handoff": false
+ },
+ {
+  "id": "Q0058",
+  "category": "thanks",
+  "handoff": false
+ },
+ {
+  "id": "Q0059",
+  "category": "shipping_status",
+  "handoff": true
+ },
+ {
+  "id": "Q0060",
+  "category": "shipping_status",
+  "handoff": true
+ },
+ {
+  "id": "Q0061",
+  "category": "shipping_status",
+  "handoff": true
+ },
+ {
+  "id": "Q0062",
+  "category": "shipping_status",
+  "handoff": true
+ }
+]

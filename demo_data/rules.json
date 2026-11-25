@@ -1,0 +1,113 @@
+[
+ {
+  "enabled": true,
+  "id": "R1",
+  "name": "退货退款",
+  "type": "keyword",
+  "any": [
+   "반품",
+   "환불"
+  ]
+ },
+ {
+  "enabled": true,
+  "id": "R2",
+  "name": "换货",
+  "type": "keyword",
+  "any": [
+   "교환"
+  ]
+ },
+ {
+  "enabled": true,
+  "id": "R3",
+  "name": "取消或改单",
+  "type": "keyword",
+  "any": [
+   "취소",
+   "주소 변경",
+   "주소를 변경",
+   "배송지",
+   "연락처를 바꿀",
+   "잘못 입력",
+   "수정 부탁",
+   "변경할 수",
+   "변경 부탁"
+  ]
+ },
+ {
+  "enabled": true,
+  "id": "R4",
+  "name": "质量问题或错发",
+  "type": "keyword",
+  "any": [
+   "파손",
+   "불량",
+   "고장",
+   "깨져",
+   "작동이 안",
+   "오배송",
+   "다른 상품이",
+   "다른 게 왔",
+   "부족하게",
+   "누락"
+  ]
+ },
+ {
+  "enabled": true,
+  "id": "R5",
+  "name": "投诉或情绪激动",
+  "type": "keyword",
+  "any": [
+   "신고",
+   "소비자원",
+   "책임자",
+   "화가",
+   "최악",
+   "사기",
+   "답이 없"
+  ]
+ },
+ {
+  "enabled": true,
+  "id": "R6",
+  "name": "显示签收但未收到",
+  "type": "keyword",
+  "all": [
+   "배송완료"
+  ],
+  "any": [
+   "못 받",
+   "받지 못",
+   "안 왔",
+   "없습니다",
+   "없어요"
+  ]
+ },
+ {
+  "enabled": true,
+  "id": "R7",
+  "name": "查不到订单",
+  "type": "order_not_found"
+ },
+ {
+  "enabled": true,
+  "id": "R8",
+  "name": "超期未到货",
+  "type": "overdue",
+  "days": 3
+ },
+ {
+  "enabled": true,
+  "id": "R9",
+  "name": "话术匹配度低",
+  "type": "low_confidence",
+  "threshold": 0.15
+ },
+ {
+  "enabled": true,
+  "id": "R10",
+  "name": "人工处理类话术",
+  "type": "manual_script"
+ }
+]

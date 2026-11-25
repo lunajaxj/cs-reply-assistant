@@ -1,0 +1,200 @@
+[
+ {
+  "date": "2026-11-28",
+  "product_code": "EL-37908",
+  "qty": 30,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-27",
+  "product_code": "HA-60670",
+  "qty": 30,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-26",
+  "product_code": "EL-28227",
+  "qty": 100,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-25",
+  "product_code": "HA-78044",
+  "qty": 80,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-25",
+  "product_code": "FS-30543",
+  "qty": 100,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-24",
+  "product_code": "OD-50478",
+  "qty": 100,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-24",
+  "product_code": "HL-49197",
+  "qty": 50,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-23",
+  "product_code": "EL-64722",
+  "qty": 50,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-22",
+  "product_code": "OD-58156",
+  "qty": 30,
+  "state": "在途"
+ },
+ {
+  "date": "2026-11-19",
+  "product_code": "HA-60670",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-19",
+  "product_code": "KT-23911",
+  "qty": 60,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-18",
+  "product_code": "KT-65625",
+  "qty": 60,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-16",
+  "product_code": "HA-86666",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-16",
+  "product_code": "EL-64722",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-16",
+  "product_code": "KT-27553",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-14",
+  "product_code": "EL-37908",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-13",
+  "product_code": "OD-50478",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-13",
+  "product_code": "FS-53338",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-12",
+  "product_code": "EL-48490",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-12",
+  "product_code": "FS-53338",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-10",
+  "product_code": "EL-37908",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-10",
+  "product_code": "EL-28227",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-10",
+  "product_code": "KT-26549",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-10",
+  "product_code": "FS-30543",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-09",
+  "product_code": "HA-86666",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-09",
+  "product_code": "FS-86404",
+  "qty": 60,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-08",
+  "product_code": "FS-96154",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-07",
+  "product_code": "EL-48490",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-07",
+  "product_code": "KT-27553",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-07",
+  "product_code": "FS-30543",
+  "qty": 60,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-07",
+  "product_code": "FS-86404",
+  "qty": 20,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-06",
+  "product_code": "OD-38512",
+  "qty": 40,
+  "state": "已入库"
+ },
+ {
+  "date": "2026-11-06",
+  "product_code": "FS-96154",
+  "qty": 20,
+  "state": "已入库"
+ }
+]

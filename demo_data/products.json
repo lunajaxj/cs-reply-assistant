@@ -1,0 +1,170 @@
+[
+ {
+  "code": "HA-68121",
+  "name_ko": "무선 핸디 청소기",
+  "name_zh": "无线手持吸尘器",
+  "category": "HA",
+  "price_krw": 59000
+ },
+ {
+  "code": "HA-86666",
+  "name_ko": "미니 가습기",
+  "name_zh": "迷你加湿器",
+  "category": "HA",
+  "price_krw": 23000
+ },
+ {
+  "code": "HA-78044",
+  "name_ko": "LED 무드등",
+  "name_zh": "LED 氛围灯",
+  "category": "HA",
+  "price_krw": 18000
+ },
+ {
+  "code": "HA-60670",
+  "name_ko": "휴대용 선풍기",
+  "name_zh": "便携风扇",
+  "category": "HA",
+  "price_krw": 15000
+ },
+ {
+  "code": "EL-48490",
+  "name_ko": "블루투스 이어폰",
+  "name_zh": "蓝牙耳机",
+  "category": "EL",
+  "price_krw": 39000
+ },
+ {
+  "code": "EL-37908",
+  "name_ko": "노트북 거치대",
+  "name_zh": "笔记本支架",
+  "category": "EL",
+  "price_krw": 27000
+ },
+ {
+  "code": "EL-28227",
+  "name_ko": "차량용 핸드폰 거치대",
+  "name_zh": "车载手机支架",
+  "category": "EL",
+  "price_krw": 14000
+ },
+ {
+  "code": "EL-64722",
+  "name_ko": "스마트 체중계",
+  "name_zh": "智能体重秤",
+  "category": "EL",
+  "price_krw": 32000
+ },
+ {
+  "code": "KT-23911",
+  "name_ko": "스테인리스 텀블러",
+  "name_zh": "不锈钢保温杯",
+  "category": "KT",
+  "price_krw": 19000
+ },
+ {
+  "code": "KT-65625",
+  "name_ko": "실리콘 조리도구 세트",
+  "name_zh": "硅胶厨具套装",
+  "category": "KT",
+  "price_krw": 26000
+ },
+ {
+  "code": "KT-27553",
+  "name_ko": "커피 그라인더",
+  "name_zh": "咖啡研磨机",
+  "category": "KT",
+  "price_krw": 45000
+ },
+ {
+  "code": "KT-26549",
+  "name_ko": "접이식 도시락통",
+  "name_zh": "折叠饭盒",
+  "category": "KT",
+  "price_krw": 12000
+ },
+ {
+  "code": "OD-50478",
+  "name_ko": "접이식 캠핑 의자",
+  "name_zh": "折叠露营椅",
+  "category": "OD",
+  "price_krw": 34000
+ },
+ {
+  "code": "OD-38512",
+  "name_ko": "방수 등산 배낭",
+  "name_zh": "防水登山包",
+  "category": "OD",
+  "price_krw": 52000
+ },
+ {
+  "code": "OD-71212",
+  "name_ko": "요가 매트",
+  "name_zh": "瑜伽垫",
+  "category": "OD",
+  "price_krw": 21000
+ },
+ {
+  "code": "OD-58156",
+  "name_ko": "캠핑용 랜턴",
+  "name_zh": "露营灯",
+  "category": "OD",
+  "price_krw": 29000
+ },
+ {
+  "code": "FS-53338",
+  "name_ko": "남성 경량 패딩 조끼",
+  "name_zh": "男士轻薄羽绒马甲",
+  "category": "FS",
+  "price_krw": 48000
+ },
+ {
+  "code": "FS-30543",
+  "name_ko": "여성 니트 가디건",
+  "name_zh": "女士针织开衫",
+  "category": "FS",
+  "price_krw": 43000
+ },
+ {
+  "code": "FS-86404",
+  "name_ko": "아동용 우비",
+  "name_zh": "儿童雨衣",
+  "category": "FS",
+  "price_krw": 17000
+ },
+ {
+  "code": "FS-96154",
+  "name_ko": "기모 트레이닝 바지",
+  "name_zh": "加绒运动裤",
+  "category": "FS",
+  "price_krw": 31000
+ },
+ {
+  "code": "PT-81700",
+  "name_ko": "반려동물 자동 급식기",
+  "name_zh": "宠物自动喂食器",
+  "category": "PT",
+  "price_krw": 68000
+ },
+ {
+  "code": "PT-49175",
+  "name_ko": "고양이 스크래처",
+  "name_zh": "猫抓板",
+  "category": "PT",
+  "price_krw": 16000
+ },
+ {
+  "code": "HL-21572",
+  "name_ko": "전동 칫솔",
+  "name_zh": "电动牙刷",
+  "category": "HL",
+  "price_krw": 36000
+ },
+ {
+  "code": "HL-49197",
+  "name_ko": "메모리폼 베개",
+  "name_zh": "记忆棉枕头",
+  "category": "HL",
+  "price_krw": 28000
+ }
+]

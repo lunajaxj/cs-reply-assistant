@@ -1,0 +1,170 @@
+[
+ {
+  "product_code": "HA-68121",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "HA-86666",
+  "on_hand": 96,
+  "reserved": 13,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "HA-78044",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-25",
+  "next_arrival_qty": 80
+ },
+ {
+  "product_code": "HA-60670",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-27",
+  "next_arrival_qty": 30
+ },
+ {
+  "product_code": "EL-48490",
+  "on_hand": 41,
+  "reserved": 2,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "EL-37908",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-28",
+  "next_arrival_qty": 30
+ },
+ {
+  "product_code": "EL-28227",
+  "on_hand": 14,
+  "reserved": 7,
+  "next_arrival_date": "2026-11-26",
+  "next_arrival_qty": 100
+ },
+ {
+  "product_code": "EL-64722",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-23",
+  "next_arrival_qty": 50
+ },
+ {
+  "product_code": "KT-23911",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "KT-65625",
+  "on_hand": 52,
+  "reserved": 3,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "KT-27553",
+  "on_hand": 60,
+  "reserved": 6,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "KT-26549",
+  "on_hand": 87,
+  "reserved": 15,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "OD-50478",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-24",
+  "next_arrival_qty": 100
+ },
+ {
+  "product_code": "OD-38512",
+  "on_hand": 87,
+  "reserved": 13,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "OD-71212",
+  "on_hand": 26,
+  "reserved": 13,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "OD-58156",
+  "on_hand": 14,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-22",
+  "next_arrival_qty": 30
+ },
+ {
+  "product_code": "FS-53338",
+  "on_hand": 103,
+  "reserved": 13,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "FS-30543",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-25",
+  "next_arrival_qty": 100
+ },
+ {
+  "product_code": "FS-86404",
+  "on_hand": 30,
+  "reserved": 11,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "FS-96154",
+  "on_hand": 26,
+  "reserved": 15,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "PT-81700",
+  "on_hand": 115,
+  "reserved": 2,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "PT-49175",
+  "on_hand": 79,
+  "reserved": 6,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "HL-21572",
+  "on_hand": 76,
+  "reserved": 14,
+  "next_arrival_date": null,
+  "next_arrival_qty": null
+ },
+ {
+  "product_code": "HL-49197",
+  "on_hand": 0,
+  "reserved": 0,
+  "next_arrival_date": "2026-11-24",
+  "next_arrival_qty": 50
+ }
+]
